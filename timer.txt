@@ -1,0 +1,5 @@
+1. Provide CRUD functionality for Restaurant aka Vendor >>> estimated 1 hours
+2. Provide endpoint to retrieve dishes for the specific restaurant >>> estimated 30 minutes
+3. Provide endpoint to make order and list the orders request >>> estimated 30 minutes
+4. Validation rules >>> estimated 15 minutes
+5. Extends Restaurant aka Vendor to allow simple query filtering using Tags >>> estimated 30 minutes
